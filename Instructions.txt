@@ -1,0 +1,7 @@
+1) Use Forking
+2) All new features commit to separate branch
+3) Before pushing to forked repo synchronize with main repo
+4) Push to forked repo
+5) Next request commit and wait for my response
+6) Synchronize forked and local repos again
+7) Delete unused branches from local and forked repos
