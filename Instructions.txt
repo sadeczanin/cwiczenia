@@ -5,3 +5,4 @@
 5) Next request commit and wait for my response
 6) Synchronize forked and local repos again
 7) Delete unused branches from local and forked repos
+8) Enjoy !!
